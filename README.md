@@ -5,4 +5,5 @@
 ## 📫 How to reach me:
 - Email: chenfeng021231@gmail.com
 - Linkedin: [Chen Feng](https://www.linkedin.com/in/feng-chen-356221289/)
+- [Resume website](https://feng1231.github.io/resume/)
 
